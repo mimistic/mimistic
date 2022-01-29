@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Can you propose me any design please? I want to tell you somethings,... I'm coding... 👩🏿‍💻
+
 <!--
 **mimistic/mimistic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
